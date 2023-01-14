@@ -1,1 +1,1 @@
-# first_excercise22
+# PalindromeTest
